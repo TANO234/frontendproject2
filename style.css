@@ -1,0 +1,99 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+
+
+.background{
+    background-image: url(https://ik.imagekit.io/p06pkngboq/chatbg.png?updatedAt=1701504539960);
+    height: 80vh;
+    width: 30%;
+    
+}
+.tit1{
+    text-align: center;
+    color: aliceblue;
+    background-color: #323f4b;
+    font-family: 'Roboto', sans-serif;
+    padding: 3%;
+    font-size: xx-large;
+
+}
+
+.card1{
+    background-color: #47a3f3;
+    width: 520px;
+    height: 50px;
+    border-radius: 8px;
+    padding: 20px;
+    margin-top: 50px;
+    margin-bottom: 5px;
+    margin-left: 20px;
+    border-bottom-right-radius: 0px;
+    
+
+}
+
+.card2{
+    background-color: #323f4b;
+    width: 520px;
+    height: 50px;
+    border-radius: 8px;
+    padding: 20px;
+    margin-top: 50px;
+    margin-bottom: 5px;
+    margin-left: 20px;
+    border-bottom-left-radius: 0px;
+    
+
+
+}
+
+
+.card3{
+    background-color: #47a3f3;
+    width: 520px;
+    height: 50px;
+    border-radius: 8px;
+    padding: 20px;
+    margin-top: 50px;
+    margin-bottom: 5px;
+    margin-left: 20px;
+    border-bottom-right-radius: 0px;
+
+
+}
+
+
+.card4{
+    background-color: #323f4b;
+    width: 520px;
+    height: 50px;
+    border-radius: 8px;
+    padding: 20px;
+    margin-top: 50px;
+    margin-left: 20px;
+    border-bottom-left-radius: 0px;
+
+
+}
+
+.t1{
+    color: #fff;
+    text-align: right;
+
+}
+
+.t2{
+    color: #fff;
+
+}
+
+.t3{
+    color: #fff;
+    text-align: right;
+
+}
+
+.t4{
+    color: #fff;
+
+}
